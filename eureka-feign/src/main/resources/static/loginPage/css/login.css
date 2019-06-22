@@ -1,0 +1,15 @@
+.InputNotTrue{
+    border-color: #f54c53!important;
+}
+.user-input{
+    display: inline;
+    width:95%;
+
+}
+.tipError{
+    color: #f54c53;
+    display: none;
+}
+.tipShow{
+    display: inline;
+}
